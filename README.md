@@ -317,7 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in this repository
-- Contact: [your-email@example.com]
+- Contact: dhruvrajm.rana@gmail.com
 
 ## 🔗 Related Projects
 
@@ -326,4 +326,4 @@ For support and questions:
 
 ---
 
-**Made with ❤️ using Spring Boot and Google Gemini AI** 
+**Made with ❤️ using Spring Boot and Google Gemini AI by Dhruvraj** 
